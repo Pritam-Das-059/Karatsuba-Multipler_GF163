@@ -1,8 +1,9 @@
 Pritam Das
+20EC10059
 
 Kratsuba's Multiplier
 
-This repository contains two folders named 'Modules' and 'Testbenches' and one 
+This Zip file contains two folders named 'Modules' and 'Testbenches' and one 
 screenshot of the simulation result for given testcases. 
 
 'Modules' : This folder contains all the verilog files written to implement 
